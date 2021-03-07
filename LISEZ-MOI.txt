@@ -1,0 +1,84 @@
+
+
+
+
+
+
+*******************************************************
+                 COMPTE UTILISATEUR                   *
+*******************************************************
+
+
+Administrateur
+**************
+	Authentification:   administrateurchaletcaviar
+	Mot de passe:       Chaletcaviar2018JeanDubois
+
+
+Developpeur
+***********
+	Authentification: gilles
+	Mot de passe:     OC_chaletcaviar2018
+
+
+Editeur
+*******
+	Authentification:  editeurchaletcaviar
+	Mot de passe:      Chaletcaviar2018ReneDuboeuf
+
+***********************************************************	
+
+
+Email
+*****
+	Authentification: admin@chaletcaviar.yn.fr 
+	Mot de passe:     OC_chaletcaviar2018
+
+
+
+
+****************************************************************
+               INFORMATIONS SUPPLEMENTAIRES                    *
+****************************************************************
+
+
+
+
+FTP
+***
+
+Nom d’utilisateur:   chalzbhe
+
+Serveur (host): ftp.chaletcaviar.yn.fr
+
+Port : 21
+
+Mot de passe: OC_chaletcaviar2018
+
+
+
+
+Base de donnee
+**************
+
+	nom de la BD:    chalzbhe_wp8
+	user	         chalzbhe_wp8
+	Mot de passe:    )hS7!1p79P
+
+
+
+
+
+Email
+*****
+	Authentification: admin@chaletcaviar.yn.fr 
+	Mot de passe:     OC_chaletcaviar2018
+
+
+
+
+
+
+
+
+
